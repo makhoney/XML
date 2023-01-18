@@ -1,1 +1,5 @@
-
+<bug_report>
+<title>Dont_work_button_Log_In</title>
+  <severity>Blocker</severity>
+  <steps>1_Open_site,2_Click_button</steps>
+</bug_report>
